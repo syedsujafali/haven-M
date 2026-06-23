@@ -1,4 +1,3 @@
-import { ArrowUp } from "lucide-react";
 import { Logo } from "./Logo";
 import { COMPANY, NAV_LINKS, SERVICES } from "../data/content";
 
